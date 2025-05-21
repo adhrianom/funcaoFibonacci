@@ -7,7 +7,7 @@ public class FuncaoFibonacci {
     private static int fRecursivo(int N){
        if (N == 0){
            return 0;
-       }                        // Calculo recursivo de fibonacci
+       }                        // Calculo recursivo de fibonacc
        if (N == 1){
            return 1;
        }
